@@ -5,11 +5,11 @@ g++ mainv1.cpp -o solar_system -framework OpenGL -framework GLUT
 
 ## HOW TO RUN ON MAC
 
-gcc mainv1.c -o solar_system -framework OpenGL -framework GLUT
+gcc cube.c -o cube -framework OpenGL -framework GLUT
 
 ## HOW TO RUN ON WINDOWS
 
-g++ mainv1.cpp -o solar_system.exe -lfreeglut -lopengl32 -lglu32
+g++ cube.cpp -o cube.exe -lfreeglut -lopengl32 -lglu32
 
 
 
